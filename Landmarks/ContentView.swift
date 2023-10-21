@@ -38,7 +38,6 @@ struct ContentView: View {
                     .font(.subheadline)
             }
             .padding()
-            
             Spacer()
         }
     }
